@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<!-- LUV ME | logo.svg | v1.1.0 -->
+<rect x="4" y="4" width="120" height="120" rx="32" fill="#efe5ff" stroke="#3d1f73" stroke-width="5"/>
+<g transform="translate(16 20) scale(.8)">
+<path d="M60 104C20 76 6 52 6 34 6 18 18 6 33 6c11 0 21 6 27 16C66 12 76 6 87 6c15 0 27 12 27 28 0 18-14 42-54 70z" fill="#7c4ddb" stroke="#3d1f73" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="30" cy="62" rx="9" ry="6" fill="#f5a8d8"/><ellipse cx="90" cy="62" rx="9" ry="6" fill="#f5a8d8"/>
+<circle cx="44" cy="50" r="6" fill="#3d1f73"/><circle cx="76" cy="50" r="6" fill="#3d1f73"/>
+<circle cx="46" cy="48" r="2" fill="#fff"/><circle cx="78" cy="48" r="2" fill="#fff"/>
+<path d="M50 66q10 10 20 0" fill="none" stroke="#3d1f73" stroke-width="3" stroke-linecap="round"/>
+</g></svg>
